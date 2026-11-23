@@ -28,9 +28,9 @@ These questions form the basis of the three SQL analyses included in this projec
 
 | Analysis | Description |
 |---|---|
-| [01 - Top Demanded Skills](./01_top_demanded_skills.sql) | Explores the 10 most frequently requested skills in remote Data Engineer jobs. |
-| [02 - Top Paying Skills](./02_top_paying_skills.sql) | Compares median salaries across skills and identifies the highest-paying ones with sufficient job demand. |
-| [03 - Optimal Skills](./03_optimal_skills.sql) | Combines skill demand and median salary into a calculated score to rank skills based on both factors. |
+| [01 - Top Demanded Skills](./1_EDA/01_Top_Demanded_Skills.sql) | Explores the 10 most frequently requested skills in remote Data Engineer jobs. |
+| [02 - Top Paying Skills](./1_EDA/02_Top_HighPaying_Skills.sql) | Compares median salaries across skills and identifies the highest-paying ones with sufficient job demand. |
+| [03 - Optimal Skills](./1_EDA/03_Optimal_Skills.sql) | Combines skill demand and median salary into a calculated score to rank skills based on both factors. |
 
 ---
 
