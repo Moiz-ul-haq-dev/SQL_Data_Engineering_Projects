@@ -1,6 +1,6 @@
 # 📊 Data Engineer Job Market Analysis | SQL
 
-![Project Overview](../Images/1_1_Project1_EDA.png)
+![Project Overview](./Images/1_1_Project1_EDA.png)
 
 ## About the Project
 
@@ -38,7 +38,7 @@ These questions form the basis of the three SQL analyses included in this projec
 
 The dataset is organized using a relational data warehouse structure, allowing job postings, companies, and skills to be analyzed through connected tables.
 
-![Data Warehouse Schema](../Images/1_2_Data_Warehouse.png)
+![Data Warehouse Schema](./Images/1_2_Data_Warehouse.png)
 
 The analysis primarily uses the following tables:
 
